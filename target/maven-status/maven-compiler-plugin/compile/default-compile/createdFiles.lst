@@ -1,0 +1,4 @@
+com\faye_marcus\model\Course.class
+com\faye_marcus\ServletInitializer.class
+com\faye_marcus\model\CoursesHardcodedService.class
+com\faye_marcus\FayeMarcusApplication.class
